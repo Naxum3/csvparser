@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(17,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(164,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(154): message : во время компиляции функции-члена класс шаблон "size_t CSVReader<int,int,int,int>::read_rows(size_t)"
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(134): message : выполняется компиляция ссылки на экземпляр шаблон функции "size_t CSVReader<int,int,int,int>::read_rows(size_t)"
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(132): message : во время компиляции функции-члена класс шаблон "CSVReader<int,int,int,int>::CSVReader(std::ifstream &,int,char)"
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(217): message : выполняется компиляция ссылки на экземпляр шаблон функции "CSVReader<int,int,int,int>::CSVReader(std::ifstream &,int,char)"
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(217): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CSVReader<int,int,int,int>"
+C:\Users\Cаша\source\repos\csvparser\Source.cpp(181,27): warning C4018: <: несоответствие типов со знаком и без знака
+  csvparser.vcxproj -> C:\Users\Cаша\source\repos\csvparser\Debug\csvparser.exe
